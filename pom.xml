@@ -137,8 +137,8 @@
     </pluginManagement>
   </build>
     <scm>
-        <connection>scm:git:https://github.com/guiMande/TP1-SIR.git</connection>
-        <url>https://github.com/guiMande/TP1-SIR</url>
+        <connection>scm:git:https://github.com/guiMande/TP1-sir.git</connection>
+        <url>https://github.com/guiMande/TP1_sir</url>
     </scm>
 
 </project>
